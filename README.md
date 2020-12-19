@@ -1,9 +1,10 @@
 # Build a Perfect React Form with React Hook
 
-This is a demo project for article here : , where explain how to build react form by applying best practices. So that you can keep your application more clean and organized.
+This is a demo project for article here : https://bit.ly/3p7pyuW, where explain how to build react form by applying best practices. So that you can keep your application more clean and organized.
 
 ## How it works ?
 
+ Article : https://bit.ly/3p7pyuW
  Video Tutorial of the same : https://youtu.be/-XKaSCU0ZLM
  
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=-XKaSCU0ZLM
