@@ -42,7 +42,6 @@ export function Form(props) {
     return (
         <form className={classes.root}
             autoComplete="off"
-            noValidate
             onSubmit={onSubmit}
             {...other}>
             {children}
