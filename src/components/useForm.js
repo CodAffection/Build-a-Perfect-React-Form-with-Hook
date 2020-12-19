@@ -17,7 +17,6 @@ export function useForm(modelObject) {
         setValues(modelObject);
     }
 
-
     return {
         values,
         setValues,
